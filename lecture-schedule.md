@@ -8,7 +8,7 @@
 |  35   | 30/08 |   Lab   |     Nicolas      | Work on Assignment 1                          |           |                           |
 |       | 01/09 | Lecture |      Glenn       | Object Oriented Programming (continued)       |           |                           |
 |       | 03/09 | Lecture |      Glenn       |                                               |           |                           |
-|       | 03/08 |   Lab   |     Nicolas      |                                               |           |                           |
+|       | 03/09 |   Lab   |     Nicolas      |                                               |           |                           |
 |  36   | 06/09 |   Lab   |     Nicolas      |                                               |           |                           |
 |       | 08/09 | Lecture |      Glenn       | Design patterns                               |           |                           |
 |       | 10/09 | Lecture |      Glenn       | Design patterns (continued)                   |           |                           |
