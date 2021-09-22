@@ -20,7 +20,7 @@
 |     | 17/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
 | 38  | 20/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
 |     | 22/09 | Lecture | Glenn            | Web development with ASP.NET                  | Suggested reading: chapters 15 and 16 in the C# book. |                           |
-|     | 24/09 | Lecture | Glenn            | Structuring your application                  | Suggested reading: [Agile Manifesto](https://agilemanifesto.org/) and [it's principles](https://agilemanifesto.org/principles.html)                                                    |                           |
+|     | 24/09 | Lecture | Glenn            | Development process (Agile)                   | Suggested reading: [Agile Manifesto](https://agilemanifesto.org/) and [it's principles](https://agilemanifesto.org/principles.html)                                                    |                           |
 |     | 24/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
 | 39  | 27/09 | Lab     | Nicolas          |                                               |                                                       |                           |
 |     | 29/09 | Lecture | Glenn            | Development process (Agile)                   |                                                       |                           |
