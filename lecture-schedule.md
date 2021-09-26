@@ -23,15 +23,15 @@
 |     | 24/09 | Lecture | Glenn            | Development process (Agile)                   | Suggested reading: [Agile Manifesto](https://agilemanifesto.org/) and [it's principles](https://agilemanifesto.org/principles.html)                                                    |                           |
 |     | 24/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
 | 39  | 27/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 29/09 | Lecture | Glenn            | Development process (Agile)                   |                                                       |                           |
-|     | 01/09 | Lecture | Glenn            | Development process                           |                                                       |                           |
+|     | 29/09 | Lecture | Glenn            | Domain Driven Development                     | Suggested reading: Domain Driven Design book, chapter 2 - Communication and the use of language  |                           |
+|     | 01/09 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
 |     | 01/10 | Lab     | Nicolas          | **Assignment 2 due**                          |                                                       |                           |
 | 40  | 04/10 | Lab     | Nicolas          |                                               |                                                       |                           |
 |     | 06/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
-|     | 08/10 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
+|     | 08/10 | Lecture | Glenn            |                                               |                                                       |                           |
 |     | 08/10 | Lab     | Nicolas          |                                               |                                                       | Lab starts a little later |
 | 41  | 11/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 13/10 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
+|     | 13/10 | Lecture | Glenn            |                                               |                                                       |                           |
 |     | 15/10 | Lecture | Glenn            |                                               |                                                       |                           |
 |     | 15/10 | Lab     | Nicolas          |                                               |                                                       |                           |
 | 42  | 18/10 | Lab     | Nicolas          |                                               |                                                       |                           |
