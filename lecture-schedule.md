@@ -27,11 +27,11 @@
 |     | 01/09 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
 |     | 01/10 | Lab     | Nicolas          | **Assignment 2 due**                          |                                                       |                           |
 | 40  | 04/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 06/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
+|     | 06/10 | Lecture | Glenn            | Testing in Lab3 & QnA                         |                                                       |                           |
 |     | 08/10 | Lecture | Glenn            |                                               |                                                       |                           |
 |     | 08/10 | Lab     | Nicolas          |                                               |                                                       | Lab starts a little later |
 | 41  | 11/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 13/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 13/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
 |     | 15/10 | Lecture | Glenn            |                                               |                                                       |                           |
 |     | 15/10 | Lab     | Nicolas          |                                               |                                                       |                           |
 | 42  | 18/10 | Lab     | Nicolas          |                                               |                                                       |                           |
